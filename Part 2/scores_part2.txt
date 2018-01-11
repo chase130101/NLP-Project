@@ -1,0 +1,10 @@
+                                       DEV              TEST
+    		    		       AUC	        AUC
+lstm_dir_transfer_good.pth	   0.622795110      0.607834906
+lstm_domain_adapt_good.pth	   0.689754597	    0.690906630
+lstm_domain_adapt_exp_good.pt      0.756115745      0.721502745
+lstm_domain_adapt_exp_good2.pth    0.783376470      0.764286941
+lstm_domain_adapt_exp_good3.pth    0.771608201      0.751034922
+
+
+
